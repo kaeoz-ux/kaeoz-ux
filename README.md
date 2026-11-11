@@ -1,16 +1,19 @@
-## Hi there 👋
+# Kassandra Mae A. Perdez
 
-<!--
-**kaeoz-ux/kaeoz-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student
+💻 Interested in Programming, Software Development, UI Design, UX Research, and Web Design
 
-Here are some ideas to get you started:
+## 🚀 About Me
+* 🌱 Currently learning UI/UX design and prototyping
+* 💡 Interested in making digital experiences both useful and visually appealing
+* 🎯 Goal: Become a skilled UI/UX Designer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📜 Certifications & Skills
+* 🖥️ Microsoft Digital Literacy – TESDA Online Program
+* 🏢 Establishing & Operating Micro-Small Medium Enterprises (MSMEs) – TESDA Online Program
+* 🛠️ Computer Systems Servicing NC II – TESDA / Headstart Training Center
+* 💻 Programming Languages: Java, C#, Python, JavaScript
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/kaeoz-ux)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://ph.linkedin.com/in/kassandra-perdez-2b2299378)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:perdezkassandra957@gmail.com)
