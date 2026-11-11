@@ -1,7 +1,6 @@
 # Kassandra Mae A. Perdez
 
-🎓 Computer Science Student  
-💻 Interested in Programming, Software Development, UI Design, UX Research, and Web Design
+I am currently a studying at STI College Caloocan and taking a program of Bachelor of Science in Computer Science. I am interested in Programming, Software Development, UI Design, UX Research, and Web Design
 
 ## 🚀 About Me
 
