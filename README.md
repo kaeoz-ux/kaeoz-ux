@@ -1,12 +1,11 @@
 # Kassandra Mae A. Perdez
 
-🎓 Computer Science Student 
-💻 Interested in Programming, Software Development, UI Design, UX Research, and Web Design
+🎓 Computer Science Student💻 Interested in Programming, Software Development, UI Design, UX Research, and Web Design
 
 ## 🚀 About Me
-* 🌱 Currently learning UI/UX design and prototyping
-* 💡 Interested in making digital experiences both useful and visually appealing
-* 🎯 Goal: Become a skilled UI/UX Designer
+🌱 Currently learning UI/UX design and prototyping
+💡 Interested in making digital experiences both useful and visually appealing
+🎯 Goal: Become a skilled UI/UX Designer
 
 ## 📜 Certifications & Skills
 * 🖥️ Microsoft Digital Literacy – TESDA Online Program
