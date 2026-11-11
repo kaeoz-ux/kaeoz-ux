@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-💭 Always curious
+💭 Always curious<br>
 🌱 Currently learning UI/UX design and prototyping  
 💡 Interested in making digital experiences both useful and visually appealing  
 🎯 Goal: Become a skilled UI/UX Designer
